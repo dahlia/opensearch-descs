@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>MDN</ShortName>
+  <Description>MDN Web Docs</Description>
+  <InputEncoding>utf-8</InputEncoding>
+  <Image
+    type="image/x-icon"
+    height="48"
+    width="48">https://developer.mozilla.org/favicon.ico</Image>
+  <Url type="text/html" method="GET" template="https://mdn.io/{searchTerms}"/>
+  <Query role="example" searchTerms="Array.prototype.length" />
+</OpenSearchDescription>

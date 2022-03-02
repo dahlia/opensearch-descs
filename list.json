@@ -1,0 +1,10 @@
+{
+  "Kagi Search": "https://kagi.com/opensearch.xml",
+  "알라딘": "aladin.xml",
+  "리디북스": "ridi.xml",
+  "Wiktionary (en)": "https://en.wiktionary.org/w/opensearch_desc.php",
+  "네이버 辭典": "naver-dict.xml",
+  "中國哲學書電子化計劃（辭典）": "https://ctext.org/searchxml.pl?type=dic&if=gb&remap=",
+  "MDN Web Docs": "mdn.xml"
+}
+

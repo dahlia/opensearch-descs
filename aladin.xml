@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>알라딘</ShortName>
+  <Description>알라딘</Description>
+  <InputEncoding>utf-8</InputEncoding>
+  <Image
+    type="image/x-icon"
+    height="16"
+    width="16">https://www.aladin.co.kr/favicon.ico</Image>
+  <Url
+    type="text/html"
+    template="https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=All&amp;SearchWord={searchTerms}"
+    method="GET" />
+  <Query role="example" searchTerms="어둠의 왼손" />
+</OpenSearchDescription>

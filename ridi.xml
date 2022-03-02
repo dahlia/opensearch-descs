@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>리디북스</ShortName>
+  <Description>리디북스</Description>
+  <InputEncoding>utf-8</InputEncoding>
+  <Image
+    type="image/x-icon"
+    height="32"
+    width="32">https://ridibooks.com/favicon.ico</Image>
+  <Url
+    type="text/html"
+    template="https://ridibooks.com/search?q={searchTerms}&amp;adult_exclude=y"
+    method="GET" />
+  <Query role="example" searchTerms="어둠의 왼손" />
+</OpenSearchDescription>
