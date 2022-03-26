@@ -6,5 +6,6 @@
   "네이버 辭典": "naver-dict.xml",
   "中國哲學書電子化計劃（辭典）": "https://ctext.org/searchxml.pl?type=dic&if=gb&remap=",
   "MDN Web Docs": "mdn.xml",
-  "GitHub Code Search": "https://cs.github.com/opensearch.xml"
+  "GitHub Code Search": "https://cs.github.com/opensearch.xml",
+  "crates.io": "https://crates.io/opensearch.xml"
 }
