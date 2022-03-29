@@ -7,5 +7,6 @@
   "中國哲學書電子化計劃（辭典）": "https://ctext.org/searchxml.pl?type=dic&if=gb&remap=",
   "MDN Web Docs": "mdn.xml",
   "GitHub Code Search": "https://cs.github.com/opensearch.xml",
+  "Stackage.org hoogle": "https://www.stackage.org/static/opensearchhoogle.xml",
   "crates.io": "https://crates.io/opensearch.xml"
 }
