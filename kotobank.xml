@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>コトバンク</ShortName>
+  <Description>
+   コトバンク：辞書・百科事典・各種データベースを一度に検索
+  </Description>
+  <InputEncoding>utf-8</InputEncoding>
+  <Image
+    type="image/x-icon"
+    height="32"
+    width="32">https://kotobank.jp/favicon.ico</Image>
+  <Url
+    type="text/html"
+    template="https://kotobank.jp/gs/?q={searchTerms}"
+    method="GET" />
+  <Query role="example" searchTerms="言葉" />
+</OpenSearchDescription>
