@@ -9,7 +9,7 @@
   "GlyphWiki": "glyphwiki.xml",
   "コトバンク": "kotobank.xml",
   "MDN Web Docs": "mdn.xml",
-  "GitHub Code Search": "https://cs.github.com/opensearch.xml",
+  "GitHub": "https://github.com/opensearch.xml",
   "Stackage.org hoogle": "https://www.stackage.org/static/opensearchhoogle.xml",
   "crates.io": "https://crates.io/opensearch.xml"
 }
