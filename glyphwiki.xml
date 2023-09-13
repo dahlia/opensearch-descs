@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>GlyphWiki</ShortName>
+  <Description>GlyphWiki</Description>
+  <InputEncoding>utf-8</InputEncoding>
+  <Image
+    type="image/x-icon"
+    height="16"
+    width="16">https://en.glyphwiki.org/favicon.ico</Image>
+  <Url
+    type="text/html"
+    template="https://en.glyphwiki.org/wiki/Special:Search?buttons=Go&amp;search={searchTerms}"
+    method="GET" />
+  <Query role="example" searchTerms="體" />
+</OpenSearchDescription>

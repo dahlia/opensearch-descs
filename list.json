@@ -6,6 +6,7 @@
   "네이버 辭典": "naver-dict.xml",
   "中國哲學書電子化計劃（辭典）": "https://ctext.org/searchxml.pl?type=dic&if=gb&remap=",
   "兩岸萌典": "https://www.moedict.tw/opensearch/moedict.xml",
+  "GlyphWiki": "glyphwiki.xml",
   "コトバンク": "kotobank.xml",
   "MDN Web Docs": "mdn.xml",
   "GitHub Code Search": "https://cs.github.com/opensearch.xml",
